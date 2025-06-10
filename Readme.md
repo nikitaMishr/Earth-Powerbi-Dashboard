@@ -21,15 +21,6 @@ Each topic has its own dedicated page with interactive visuals, filters, and cle
 - **Cleaned datasets** for CO₂, deforestation, and light pollution in CSV format
 - **Custom visuals and artwork** to give each page a unique style
 
-### Folder structure
-
-earthpulse/
-├── assets/ # Globe and theme images
-├── data/ # Cleaned CSV files
-├── EarthPulse.pbix # Power BI dashboard file
-└── README.md # This file
-
----
 
 ## 🔍 What You’ll See in the Dashboard
 
