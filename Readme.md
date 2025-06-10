@@ -1,8 +1,10 @@
 # 🌍 EarthPulse – A Power BI Dashboard for Global Environmental Issues
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=microsoft-power-bi&style=flat-square)](https://powerbi.microsoft.com/)
-[![GitHub Release](https://img.shields.io/github/v/release/yourusername/earthpulse?style=flat-square)](https://github.com/yourusername/earthpulse/releases)
-[![License](https://img.shields.io/github/license/yourusername/earthpulse?style=flat-square)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/nikitaMishr/Earth-Powerbi-Dashboard?style=flat-square)](https://github.com/nikitaMishr/Earth-Powerbi-Dashboard/releases)
+[![License](https://img.shields.io/github/license/nikitaMishr/Earth-Powerbi-Dashboard?style=flat-square)](https://github.com/nikitaMishr/Earth-Powerbi-Dashboard/blob/main/LICENSE)
+
+
 
 EarthPulse is a multi-page Power BI dashboard exploring three major environmental challenges our planet faces:
 
