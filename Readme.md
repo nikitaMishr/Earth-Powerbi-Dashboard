@@ -24,10 +24,10 @@ Each topic has its own dedicated page with interactive visuals, filters, and cle
 ### Folder structure
 
 earthpulse/
-├── assets/               # Globe and theme images
-├── data/                 # Cleaned CSV files
-├── EarthPulse.pbix       # Power BI dashboard file
-└── README.md             # This file
+├── assets/ # Globe and theme images
+├── data/ # Cleaned CSV files
+├── EarthPulse.pbix # Power BI dashboard file
+└── README.md # This file
 
 ---
 
